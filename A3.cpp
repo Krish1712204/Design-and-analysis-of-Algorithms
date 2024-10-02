@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Function to count trailing zeroes in factorial of a given number
+// Function to count trailing zeroes in factorial of a given numbers
 int countTrailingZeroes(int num) {
     int count = 0;
     // We only count the number of 5s in the factors of the numbers
