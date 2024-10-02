@@ -13,7 +13,7 @@ def count_zeroes(arr):
 
 
 def is_valid_array(arr):
-    # Checking if the array contains all 1s followed by all 0s
+    # Checking if the array contains all 1s followed by all 0s or not
     # It does this by sorting the array in reverse order (sorted(arr, reverse=True))
     # and comparing it with the original array (arr).
     # If the sorted array matches the original array, it returns True,
